@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.divinumofficium.com	TRUE	/	FALSE	1999999999	horasp	%270%27%3B%3B%3B%270%27%3B%3B%3B%27Latin%27%3B%3B%3B%270%27%3B%3B%3B%271%27%3B%3B%3B%27black%27%3B%3B%3B%27-1%20black%27%3B%3B%3B%27%20italic%20red%27%3B%3B%3B%27%2B2%20bold%20italic%20red%27%3B%3B%3B%27%2B1%20bold%20italic%20red%27%3B%3B%3B%271%20red%27%3B%3B%3B%27%2B1%20red%27%3B%3B%3B%271024%27%3B%3B%3B%27100%27%3B%3B%3Bbbtbbtcccccccnn%3B%3B%3B
+www.divinumofficium.com	TRUE	/	FALSE	1999999999	horasgo	%27all%27%3B%3B%3B%27Rubrics%201960%27%3B%3B%3B%27English%27%3B%3B%3B%27plain%27%3B%3B%3Boooo%3B%3B%3B
+www.divinumofficium.com	TRUE	/	FALSE	1999999999	horasgc	%27all%27%3B%3B%3B%27Divino%20Afflatu%27%3B%3B%3B%27Rubrics%201960%27%3B%3B%3B%27English%27%3B%3B%3B%27plain%27%3B%3B%3Booooo%3B%3B%3B
+www.divinumofficium.com	TRUE	/	FALSE	1999999999	horasg	%27all%27%3B%3B%3B%27Rubrics%201960%27%3B%3B%3B%27English%27%3B%3B%3B%27plain%27%3B%3B%3Boooo%3B%3B%3B
+
